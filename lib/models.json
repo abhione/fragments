@@ -160,6 +160,14 @@
       "providerId": "ollama",
       "name": "Mistral Large",
       "multiModal": false
+    },
+    {
+      "id": "abhirup/Meta-Llama-3-8B-50bea66f-62660d63",
+      "name": "EndoML Tera",
+      "provider": "Together AI",
+      "providerId": "togetherai",
+      "multiModal": false
     }
+    
   ]
 }
